@@ -1,1 +1,1 @@
-# elso_netes_megosztas
+# elso-netes-megosztas
